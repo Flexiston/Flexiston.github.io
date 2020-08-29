@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: 
+Sitemap: https://blog.flexiston.com/post-sitemap.xml
+Sitemap: https://blog.flexiston.com/page-sitemap.xml
