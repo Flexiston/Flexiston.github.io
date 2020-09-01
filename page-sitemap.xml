@@ -8,57 +8,57 @@
     </url>
     
     <url>
-        <loc>https://blog.flexiston.com/play/</loc>
-        <lastmod>2020-09-01T05:20:48.556Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://blog.flexiston.com/say/</loc>
-        <lastmod>2020-09-01T05:20:48.556Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://blog.flexiston.com/search/</loc>
-        <lastmod>2020-09-01T05:20:48.556Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>https://blog.flexiston.com/tags/</loc>
-        <lastmod>2020-09-01T05:20:48.556Z</lastmod>
+        <lastmod>2020-09-01T08:25:31.998Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://blog.flexiston.com/jss.html</loc>
-        <lastmod>2020-09-01T05:20:48.552Z</lastmod>
+        <lastmod>2020-09-01T08:25:31.994Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://blog.flexiston.com/play/</loc>
+        <lastmod>2020-09-01T08:25:31.994Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://blog.flexiston.com/say/</loc>
+        <lastmod>2020-09-01T08:25:31.994Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://blog.flexiston.com/search/</loc>
+        <lastmod>2020-09-01T08:25:31.994Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://blog.flexiston.com/images/jss.html</loc>
-        <lastmod>2020-09-01T05:20:48.540Z</lastmod>
+        <lastmod>2020-09-01T08:25:31.978Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://blog.flexiston.com/categories/</loc>
-        <lastmod>2020-09-01T05:20:48.528Z</lastmod>
+        <lastmod>2020-09-01T08:25:31.966Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://blog.flexiston.com/friends/</loc>
-        <lastmod>2020-09-01T05:20:48.528Z</lastmod>
+        <lastmod>2020-09-01T08:25:31.966Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
