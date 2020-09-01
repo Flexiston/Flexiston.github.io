@@ -8,57 +8,57 @@
     </url>
     
     <url>
-        <loc>https://blog.flexiston.com/tags/</loc>
-        <lastmod>2020-08-31T14:13:29.153Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://blog.flexiston.com/jss.html</loc>
-        <lastmod>2020-08-31T14:13:29.149Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>https://blog.flexiston.com/play/</loc>
-        <lastmod>2020-08-31T14:13:29.149Z</lastmod>
+        <lastmod>2020-09-01T00:49:02.357Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://blog.flexiston.com/say/</loc>
-        <lastmod>2020-08-31T14:13:29.149Z</lastmod>
+        <lastmod>2020-09-01T00:49:02.357Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://blog.flexiston.com/search/</loc>
-        <lastmod>2020-08-31T14:13:29.149Z</lastmod>
+        <lastmod>2020-09-01T00:49:02.357Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://blog.flexiston.com/tags/</loc>
+        <lastmod>2020-09-01T00:49:02.357Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://blog.flexiston.com/jss.html</loc>
+        <lastmod>2020-09-01T00:49:02.353Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://blog.flexiston.com/images/jss.html</loc>
-        <lastmod>2020-08-31T14:13:29.137Z</lastmod>
+        <lastmod>2020-09-01T00:49:02.341Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://blog.flexiston.com/categories/</loc>
-        <lastmod>2020-08-31T14:13:29.125Z</lastmod>
+        <lastmod>2020-09-01T00:49:02.329Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://blog.flexiston.com/friends/</loc>
-        <lastmod>2020-08-31T14:13:29.125Z</lastmod>
+        <lastmod>2020-09-01T00:49:02.329Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
