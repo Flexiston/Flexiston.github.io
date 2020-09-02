@@ -2,13 +2,13 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://blog.flexiston.com</loc>
+        <loc>https://blog.flesx.cn</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>https://blog.flexiston.com/posts/17931.html</loc>
+        <loc>https://blog.flesx.cn/posts/17931.html</loc>
         <lastmod>2020-08-20T13:51:09.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -16,7 +16,7 @@
     </url>
 
     <url>
-        <loc>https://blog.flexiston.com/posts/47424.html</loc>
+        <loc>https://blog.flesx.cn/posts/47424.html</loc>
         <lastmod>2020-08-20T01:58:09.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -24,7 +24,7 @@
     </url>
 
     <url>
-        <loc>https://blog.flexiston.com/posts/43359.html</loc>
+        <loc>https://blog.flesx.cn/posts/43359.html</loc>
         <lastmod>2020-08-10T23:51:01.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -32,7 +32,7 @@
     </url>
 
     <url>
-        <loc>https://blog.flexiston.com/posts/32716.html</loc>
+        <loc>https://blog.flesx.cn/posts/32716.html</loc>
         <lastmod>2020-08-07T13:39:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -40,7 +40,7 @@
     </url>
 
     <url>
-        <loc>https://blog.flexiston.com/posts/39479.html</loc>
+        <loc>https://blog.flesx.cn/posts/39479.html</loc>
         <lastmod>2020-07-14T09:44:09.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -48,7 +48,7 @@
     </url>
 
     <url>
-        <loc>https://blog.flexiston.com/posts/4141.html</loc>
+        <loc>https://blog.flesx.cn/posts/4141.html</loc>
         <lastmod>2020-06-26T07:28:27.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -56,7 +56,7 @@
     </url>
 
     <url>
-        <loc>https://blog.flexiston.com/posts/57807.html</loc>
+        <loc>https://blog.flesx.cn/posts/57807.html</loc>
         <lastmod>2020-06-25T12:13:23.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -64,7 +64,7 @@
     </url>
 
     <url>
-        <loc>https://blog.flexiston.com/posts/24549.html</loc>
+        <loc>https://blog.flesx.cn/posts/24549.html</loc>
         <lastmod>2020-06-18T10:20:26.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -72,7 +72,7 @@
     </url>
 
     <url>
-        <loc>https://blog.flexiston.com/posts/7578.html</loc>
+        <loc>https://blog.flesx.cn/posts/7578.html</loc>
         <lastmod>2020-06-12T07:34:38.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -80,7 +80,7 @@
     </url>
 
     <url>
-        <loc>https://blog.flexiston.com/posts/24179.html</loc>
+        <loc>https://blog.flesx.cn/posts/24179.html</loc>
         <lastmod>2020-05-19T12:00:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -88,7 +88,7 @@
     </url>
 
     <url>
-        <loc>https://blog.flexiston.com/posts/25909.html</loc>
+        <loc>https://blog.flesx.cn/posts/25909.html</loc>
         <lastmod>2020-05-17T02:22:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -96,7 +96,7 @@
     </url>
 
     <url>
-        <loc>https://blog.flexiston.com/posts/28146.html</loc>
+        <loc>https://blog.flesx.cn/posts/28146.html</loc>
         <lastmod>2020-05-02T22:35:34.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -104,7 +104,7 @@
     </url>
 
     <url>
-        <loc>https://blog.flexiston.com/posts/5913.html</loc>
+        <loc>https://blog.flesx.cn/posts/5913.html</loc>
         <lastmod>2020-05-01T07:50:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -112,7 +112,7 @@
     </url>
 
     <url>
-        <loc>https://blog.flexiston.com/posts/49939.html</loc>
+        <loc>https://blog.flesx.cn/posts/49939.html</loc>
         <lastmod>2020-04-30T09:19:19.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -120,7 +120,7 @@
     </url>
 
     <url>
-        <loc>https://blog.flexiston.com/posts/22938.html</loc>
+        <loc>https://blog.flesx.cn/posts/22938.html</loc>
         <lastmod>2020-04-26T12:43:04.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
