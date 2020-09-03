@@ -8,43 +8,43 @@
     </url>
     
     <url>
-        <loc>https://blog.flesx.cn/tags/</loc>
-        <lastmod>2020-09-03T13:30:12.032Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://blog.flesx.cn/categories/</loc>
-        <lastmod>2020-09-03T13:30:12.028Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://blog.flesx.cn/friends/</loc>
-        <lastmod>2020-09-03T13:30:12.028Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://blog.flesx.cn/play/</loc>
-        <lastmod>2020-09-03T13:30:12.028Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>https://blog.flesx.cn/say/</loc>
-        <lastmod>2020-09-03T13:30:12.028Z</lastmod>
+        <lastmod>2020-09-03T23:48:21.488Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://blog.flesx.cn/search/</loc>
-        <lastmod>2020-09-03T13:30:12.028Z</lastmod>
+        <lastmod>2020-09-03T23:48:21.488Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://blog.flesx.cn/tags/</loc>
+        <lastmod>2020-09-03T23:48:21.488Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://blog.flesx.cn/categories/</loc>
+        <lastmod>2020-09-03T23:48:21.484Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://blog.flesx.cn/friends/</loc>
+        <lastmod>2020-09-03T23:48:21.484Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://blog.flesx.cn/play/</loc>
+        <lastmod>2020-09-03T23:48:21.484Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
