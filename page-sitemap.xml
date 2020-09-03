@@ -8,43 +8,43 @@
     </url>
     
     <url>
-        <loc>https://blog.flesx.cn/play/</loc>
-        <lastmod>2020-09-03T03:31:56.744Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://blog.flesx.cn/search/</loc>
-        <lastmod>2020-09-03T03:31:56.744Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://blog.flesx.cn/say/</loc>
-        <lastmod>2020-09-03T03:31:56.744Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>https://blog.flesx.cn/tags/</loc>
-        <lastmod>2020-09-03T03:31:56.744Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://blog.flesx.cn/categories/</loc>
-        <lastmod>2020-09-03T03:31:56.740Z</lastmod>
+        <lastmod>2020-09-03T03:43:53.068Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://blog.flesx.cn/friends/</loc>
-        <lastmod>2020-09-03T03:31:56.740Z</lastmod>
+        <lastmod>2020-09-03T03:43:53.064Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://blog.flesx.cn/play/</loc>
+        <lastmod>2020-09-03T03:43:53.064Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://blog.flesx.cn/say/</loc>
+        <lastmod>2020-09-03T03:43:53.064Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://blog.flesx.cn/search/</loc>
+        <lastmod>2020-09-03T03:43:53.064Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://blog.flesx.cn/categories/</loc>
+        <lastmod>2020-09-03T03:43:53.060Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -71,14 +71,14 @@
     </url>
     
     <url>
-        <loc>https://blog.flesx.cn/apply-link/</loc>
+        <loc>https://blog.flesx.cn/about/</loc>
         <lastmod>2020-08-07T04:18:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://blog.flesx.cn/about/</loc>
+        <loc>https://blog.flesx.cn/apply-link/</loc>
         <lastmod>2020-08-07T04:18:50.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
