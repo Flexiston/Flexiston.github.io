@@ -8,43 +8,43 @@
     </url>
     
     <url>
-        <loc>https://blog.flesx.cn/play/</loc>
-        <lastmod>2020-09-14T01:53:53.990Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>https://blog.flesx.cn/say/</loc>
-        <lastmod>2020-09-14T01:53:53.990Z</lastmod>
+        <lastmod>2020-09-14T01:55:32.719Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://blog.flesx.cn/search/</loc>
-        <lastmod>2020-09-14T01:53:53.990Z</lastmod>
+        <lastmod>2020-09-14T01:55:32.719Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://blog.flesx.cn/tags/</loc>
-        <lastmod>2020-09-14T01:53:53.990Z</lastmod>
+        <lastmod>2020-09-14T01:55:32.719Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://blog.flesx.cn/categories/</loc>
-        <lastmod>2020-09-14T01:53:53.986Z</lastmod>
+        <lastmod>2020-09-14T01:55:32.715Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://blog.flesx.cn/play/</loc>
+        <lastmod>2020-09-14T01:55:32.715Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://blog.flesx.cn/404.html</loc>
-        <lastmod>2020-09-14T01:53:53.962Z</lastmod>
+        <lastmod>2020-09-14T01:55:32.691Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
