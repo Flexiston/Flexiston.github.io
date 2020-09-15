@@ -152,9 +152,10 @@
         })();</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"><script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script><script>let lazyloadT = Boolean('[object Object]'),
             auto_fancybox = Boolean('true')
         if (auto_fancybox) {
-            $(".post__content").find('img').not('.inline').not('[no-fancy]').not('a img').each(function () {
+            $(".post__content").find('img').not('.inline').not('[no-fancybox]').not('a img').each(function () {
                 var element = document.createElement("a");
                 $(element).attr("data-fancybox", "gallery");
+                $(element).attr("class", "fancybox");
                 $(element).attr("href", $(this).attr("src"));
                 if (lazyloadT) {
                     $(element).attr("href", $(this).attr("data-srcset"));
@@ -165,6 +166,7 @@
             $(".post__content").find("fancybox").find('img').each(function () {
                 var element = document.createElement("a");
                 $(element).attr("data-fancybox", "gallery");
+                $(element).attr("class", "fancybox");
                 $(element).attr("href", $(this).attr("src"));
                 if (lazyloadT) {
                     $(element).attr("href", $(this).attr("data-srcset"));
