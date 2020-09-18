@@ -8,43 +8,43 @@
     </url>
     
     <url>
-        <loc>https://blog.flesx.cn/search/</loc>
-        <lastmod>2020-09-18T05:05:47.066Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://blog.flesx.cn/tags/</loc>
-        <lastmod>2020-09-18T05:05:47.066Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://blog.flesx.cn/categories/</loc>
-        <lastmod>2020-09-18T05:05:47.062Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>https://blog.flesx.cn/play/</loc>
-        <lastmod>2020-09-18T05:05:47.062Z</lastmod>
+        <lastmod>2020-09-18T05:30:54.429Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://blog.flesx.cn/say/</loc>
-        <lastmod>2020-09-18T05:05:47.062Z</lastmod>
+        <lastmod>2020-09-18T05:30:54.429Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://blog.flesx.cn/search/</loc>
+        <lastmod>2020-09-18T05:30:54.429Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://blog.flesx.cn/tags/</loc>
+        <lastmod>2020-09-18T05:30:54.429Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://blog.flesx.cn/categories/</loc>
+        <lastmod>2020-09-18T05:30:54.425Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://blog.flesx.cn/404.html</loc>
-        <lastmod>2020-09-18T05:05:47.038Z</lastmod>
+        <lastmod>2020-09-18T05:30:54.401Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
