@@ -1,1 +1,1 @@
-"use strict";document.addEventListener("DOMContentLoaded",function(){new Runner(".interstitial-wrapper")});
+document.addEventListener("DOMContentLoaded",(function(){new Runner(".interstitial-wrapper")}));
