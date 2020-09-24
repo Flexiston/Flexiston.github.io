@@ -83,11 +83,11 @@
                 var enableIncr = 'leancloud' === 'leancloud';
                 var getterArr = [];
                 var incrArr = [];
-                var pvCtn = document.querySelector('#leancloud_container_site_pv');
+                var pvCtn = document.getElementById('leancloud_container_site_pv');
                 if (pvCtn || enableIncr) {
                     var pvGetter = getRecord(Counter, 'site-pv').then((record) => {
                         incrArr.push(buildIncrement(record.objectId))
-                        var ele = document.querySelector('#leancloud_value_site_pv');
+                        var ele = document.getElementById('leancloud_value_site_pv');
                         if (ele) {
                             ele.innerText = record.time + 1;
                             if (pvCtn) {
@@ -97,12 +97,12 @@
                     });
                     getterArr.push(pvGetter);
                 }
-                var uvCtn = document.querySelector('#leancloud_container_site_uv');
+                var uvCtn = document.getElementById('leancloud_container_site_uv');
                 if (uvCtn || enableIncr) {
                     var uvGetter = getRecord(Counter, 'site-uv').then((record) => {
                         var vuv = validUV();
                         vuv && incrArr.push(buildIncrement(record.objectId))
-                        var ele = document.querySelector('#leancloud_value_site_uv');
+                        var ele = document.getElementById('leancloud_value_site_uv');
                         if (ele) {
                             ele.innerText = record.time + (vuv ? 1 : 0);
                             if (uvCtn) {
@@ -113,13 +113,13 @@
                     getterArr.push(uvGetter);
                 }
                 if ('true' === 'true') {
-                    var viewCtn = document.querySelector('#leancloud_container_page_pv');
+                    var viewCtn = document.getElementById('leancloud_container_page_pv');
                     if (viewCtn || enableIncr) {
                         var target = decodeURI('/posts/7578.html');
                         var viewGetter = getRecord(Counter, target).then((record) => {
                             incrArr.push(buildIncrement(record.objectId))
                             if (viewCtn) {
-                                var ele = document.querySelector('#leancloud_value_page_pv');
+                                var ele = document.getElementById('leancloud_value_page_pv');
                                 if (ele) {
                                     ele.innerText = (record.time || 0) + 1;
                                     viewCtn.style.display = 'inline';
