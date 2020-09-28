@@ -3,6 +3,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.flesx.cn/say/</loc>
+    
+    <lastmod>2020-09-28</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.flesx.cn/search/</loc>
     
     <lastmod>2020-09-28</lastmod>
@@ -17,14 +24,7 @@
   </url>
   
   <url>
-    <loc>https://blog.flesx.cn/say/</loc>
-    
-    <lastmod>2020-09-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.flesx.cn/hack/</loc>
+    <loc>https://blog.flesx.cn/categories/</loc>
     
     <lastmod>2020-09-28</lastmod>
     
@@ -46,13 +46,6 @@
   
   <url>
     <loc>https://blog.flesx.cn/baidu/</loc>
-    
-    <lastmod>2020-09-28</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.flesx.cn/categories/</loc>
     
     <lastmod>2020-09-28</lastmod>
     
